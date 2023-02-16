@@ -568,7 +568,7 @@ img{
 .portfolio-item-animation-text{
     color: var(--portfolio-button-bg-color);
 }
-.portfolio-item-div:hover .portfolio-item-animation{
+.portfolio-item-link:hover .portfolio-item-animation{
     background-color: var(--accent-color);
     color: var(--portfolio-button-bg-color);
     transform: translateY(-100%); /*двигаемся по оси у вверх*/
